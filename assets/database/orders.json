@@ -1,0 +1,26 @@
+[
+    {
+        "id": "order_68d9862de1626",
+        "buyer": "sebastian",
+        "cart": [
+            {
+                "name": "Balanza de Precisión",
+                "price": 0,
+                "quantity": 1
+            }
+        ],
+        "date": "2025-09-28T19:02:05.907Z"
+    },
+    {
+        "id": "order_68dc2c10c6aab",
+        "buyer": "Cliente",
+        "cart": [
+            {
+                "name": "Balanza Profesional de Cocina",
+                "price": 0,
+                "quantity": 1
+            }
+        ],
+        "date": "2025-09-30T19:14:24.799Z"
+    }
+]
